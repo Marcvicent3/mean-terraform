@@ -1,12 +1,12 @@
 # Credenciales AWS
 variable "aws_access_key" {
   type = string
-  default = "AKIAZ2RI2RU2TPQNIFHE"
+  default = "*"
 }
 
 variable "aws_secret_key" {
   type = string
-  default = "5sbo4MKbDc/cipeQsLIfZKcq7DP1Am9+BX73S31Q"
+  default = "*"
 }
 
 
